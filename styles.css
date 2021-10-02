@@ -1,0 +1,10 @@
+body { 
+    font-family: "Lato";
+    font-size: 22px;
+    background-color: lightyellow;
+}
+
+img {
+    width: 600px;
+    height: auto; 
+}
